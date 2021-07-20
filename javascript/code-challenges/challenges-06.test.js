@@ -61,7 +61,7 @@ console.log(a) prints [1, 2, 3, 1]
 const appendFirstToLast = (arr) => {
   // Solution code here...
   let firstItem = arr[0];
-  arr.push(firstItem)
+  arr.push(firstItem);
 };
 
 /* ------------------------------------------------------------------------------------------------
